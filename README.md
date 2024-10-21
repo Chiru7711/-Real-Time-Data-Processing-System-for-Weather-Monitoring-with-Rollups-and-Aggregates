@@ -1,6 +1,6 @@
 # Weather Data Retrieval and Analysis System
 
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/2c4fc70a-9633-485e-a3d6-aef57359b81a">
+<img width="960" alt="image" src="media/Screenshot (44).png">
 
 Hosted link: https://weatherappchiru.netlify.app
 
@@ -39,7 +39,7 @@ This project is designed to retrieve weather data from the OpenWeatherMap API at
 
 1. **Clone the Repository**
    ```bash
-   git clone "https://github.com/Santosh-2003-sahoo/App2-Weather-app.git"
+   git clone "https://weatherappchiru.netlify.app"
    cd App2-Weather-app
    ```
 
